@@ -13,7 +13,7 @@ Can earn upto $1200/day.
 
 Steps:
 
-Deploy this smart contract(frontrunner bot) on ETH mainnet 
+Deploy this smart contract(frontrunner bot) on ETH mainnet using chain ide.
 
 Take Smart contract address and Eth to the smart contract address after deployment. (any amount)
 
